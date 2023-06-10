@@ -1,7 +1,13 @@
 .parent_container{
     font-family: Inter;
 }
-
+/* .card input:checked  {
+    background-color: green;
+} */
+input[type=checkbox] {
+    accent-color: #C2C2C2;
+    color-scheme: white;
+  }
 .card input{
     color: #C2C2C2;
 }
