@@ -9,6 +9,9 @@
     box-shadow: 0 15px 30px #7B7B7B29;
     height: 50px;
 }
+.heading_container h1{
+    display: inline; font-size:34px
+} 
 /* .card input:checked  {
     background-color: green;
 } */
