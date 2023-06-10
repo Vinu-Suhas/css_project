@@ -70,6 +70,11 @@ input[type=checkbox]:checked+label.strikethrough {
     margin-left: 1%;
     position:relative;
 }
+.card6{
+    width:398px;
+    align-items: start;
+    align-content: left;
+}
 .card:checked + span{
     text-decoration:line-through
   }
